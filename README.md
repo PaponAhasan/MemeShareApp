@@ -6,7 +6,7 @@ API LInk : https://github.com/D3vd/Meme_Api
 
 - View Binding
 - [Restfull API](https://github.com/D3vd/Meme_Api) using **Volley Librray**
-- ***Glide Librray** for Image Lode
+- ***Glide Librray*** for Image Lode
 - Intent for share image
 - Singleton Pattern
 
